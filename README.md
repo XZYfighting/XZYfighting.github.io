@@ -1,0 +1,2 @@
+# XZYfighting.github.io
+blog
